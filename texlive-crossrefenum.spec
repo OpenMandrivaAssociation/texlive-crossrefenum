@@ -1,6 +1,6 @@
 Name:		texlive-crossrefenum
 Version:	65016
-Release:	1
+Release:	2
 Summary:	Smart typesetting of enumerated cross-references for various TeX formats
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crossrefenum
