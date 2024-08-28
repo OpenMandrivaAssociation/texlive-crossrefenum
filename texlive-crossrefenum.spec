@@ -1,5 +1,5 @@
 Name:		texlive-crossrefenum
-Version:	66014
+Version:	70954
 Release:	1
 Summary:	Smart typesetting of enumerated cross-references for various TeX formats
 Group:		Publishing
