@@ -3,7 +3,7 @@ Version:	70954
 Release:	1
 Summary:	Smart typesetting of enumerated cross-references for various TeX formats
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/crossrefenum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/crossrefenum
 License:	gpl3+ fdl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/crossrefenum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/crossrefenum.doc.r%{version}.tar.xz
